@@ -7,7 +7,7 @@ tests/files/shp_pesado/*
 files/db/sql/secreto/*
 
 # Ignore specific files
-settings/db_settings.py
+# settings/db_settings.py
 settings/accounts.py
 settings/client_secret*
 files/production/upload_old_db_in_new_db.py
